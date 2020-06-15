@@ -4,8 +4,6 @@
 [![OpenNeuro](https://img.shields.io/badge/Data-OpenNeuro-teal)](https://openneuro.org/datasets/ds002345)
 [![DataLad](https://img.shields.io/badge/Data-DataLad-orange)](http://datasets.datalad.org/?dir=/labs/hasson/narratives)
 
-### The benefits of BIDS: data standardization and automated processing for neuroimaging research
-
 ![Alt text](https://raw.githubusercontent.com/snastase/ohbm-traintrack-bids/master/bids_logo_trim.png?raw=true&s=100 "BIDS Logo")
 
 This repository accompanies a [TrainTrack](https://ohbm.github.io/hackathon2020/traintrack/) presentation titled "The benefits of BIDS: data standardization and automated processing for neuroimaging research" for [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/).
