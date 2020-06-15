@@ -16,6 +16,8 @@ Group HTML outputs: [`group_T1w.html`](https://htmlpreview.github.io/?https://gi
 ### fMRIPrep
 HTML outputs for an example subject: [`sub-001.html`](https://htmlpreview.github.io/?https://github.com/snastase/ohbm-traintrack-bids/blob/master/fmriprep/sub-001.html)
 
+---
+
 #### References
 * Esteban, O., Birman, D., Schaer, M., Koyejo, O. O., Poldrack, R. A., & Gorgolewski, K. J. (2017). MRIQC: Advancing the automatic prediction of image quality in MRI from unseen sites. *PLoS One*, *12*(9), e0184661. https://doi.org/10.1371/journal.pone.0184661
 
