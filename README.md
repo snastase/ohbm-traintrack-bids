@@ -1,9 +1,10 @@
 # BIDS and BIDS Apps&mdash;OHBM Brainhack 2020
-### The benefits of BIDS: data standardization and automated processing for neuroimaging research
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![OpenNeuro](https://img.shields.io/badge/Data-OpenNeuro-teal)](https://openneuro.org/datasets/ds002345)
 [![DataLad](https://img.shields.io/badge/Data-DataLad-orange)](http://datasets.datalad.org/?dir=/labs/hasson/narratives)
+
+### The benefits of BIDS: data standardization and automated processing for neuroimaging research
 
 ![Alt text](https://raw.githubusercontent.com/snastase/ohbm-traintrack-bids/master/bids_logo_trim.png?raw=true&s=100 "BIDS Logo")
 
