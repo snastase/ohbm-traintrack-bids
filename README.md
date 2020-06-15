@@ -4,8 +4,6 @@
 [![OpenNeuro](https://img.shields.io/badge/Data-OpenNeuro-teal)](https://openneuro.org/datasets/ds002345)
 [![DataLad](https://img.shields.io/badge/Data-DataLad-orange)](http://datasets.datalad.org/?dir=/labs/hasson/narratives)
 
-![Alt text](https://raw.githubusercontent.com/snastase/ohbm-traintrack-bids/master/bids_logo_trim.png?raw=true&s=100 "BIDS Logo")
-
 This repository accompanies a [TrainTrack](https://ohbm.github.io/hackathon2020/traintrack/) presentation titled "The benefits of BIDS: data standardization and automated processing for neuroimaging research" for [OHBM Brainhack 2020](https://ohbm.github.io/hackathon2020/).
 
 This repository contains example HTML outputs from running MRIQC ([Esteban et al., 2017](https://doi.org/10.1371/journal.pone.0184661)) and fMRIPrep ([Esteban et al., 2019](https://doi.org/10.1038/s41592-018-0235-4)) on the "[Narratives](https://openneuro.org/datasets/ds002345)" data collection ([Nastase et al., 2019](https://doi.org/10.18112/openneuro.ds002345.v1.0.1)). HTML outputs can be rendered using https://htmlpreview.github.io/.
