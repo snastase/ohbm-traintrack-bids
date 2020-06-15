@@ -1,5 +1,3 @@
-# The benefits of BIDS&mdash;data standardization and automated processing for neuroimaging research
+# OHBM Brainhack 2020 TrainTrack&mdash;BIDS and BIDS Apps
 
-## OHBM Brainhack 2020 TrainTrack
-
-TrainTrack materials on BIDS and BIDS Apps for OHBM Brainhack 2020
+This repository accompanies a TrainTrack presentation titled "The benefits of BIDS: data standardization and automated processing for neuroimaging research" for OHBM Brainhack 2020.
